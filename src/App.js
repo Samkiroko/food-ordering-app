@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import CartProvider from './assets/store/CartProvider'
+import CartProvider from './store/CartProvider'
 import Cart from './components/Cart/Cart'
 import Header from './components/Layout/Header'
 import Meals from './components/Meals/Meals'
